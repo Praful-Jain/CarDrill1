@@ -7,6 +7,8 @@
 - you can also run `npm start` to run the main file
 - enter and run `npx jest` command to run test files
 
+## PROJECT RESTRICTION
+- You can't use map, reduce, or filter to solve these problems. Only use native JavaScript for loops. No other types of loops are allowed.
 
 ## Problem #1 
  The dealer can't recall the information for a car with an id of 33 on his lot. Help the dealer find out which car has an id of 33 by calling a function that will return the data for that car. Then log the car's year, make, and model in the console log in the format of:
